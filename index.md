@@ -1,2 +1,2 @@
 # Abbie & Mick Wedding Ceremony
-![Invitation P1](images/P1.png)
+![Invitation P1](P1.png)
